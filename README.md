@@ -1,12 +1,10 @@
 ![SparkXcloud](https://te.legra.ph/file/2dc0f04c0f42f91e0a522.jpg)
 
-# SparkXcloud-Gdrive-MirrorBot/LeechBot v2.0
-[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://ko-fi.com/harshhaareddy)
-[![GitHub watchers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://img.shields.io/github/watchers/Spark-X-Cloud/SparkXcloud-Gdrive-MirrorBot)
+# HYBRID-Gdrive-MirrorBot/LeechBot v2.0
 [![Docker Pulls](https://img.shields.io/badge/Docker-ff1709?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/r/harshhaareddy/mega-sdk-python)
 [![Channel](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SparkXcloud)
 
-**SparkXcloud-Gdrive-MirrorBot** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
+**HYBRID-Gdrive-MirrorBot** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
 
 ## Bot commands
 
