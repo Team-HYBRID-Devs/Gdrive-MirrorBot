@@ -1,4 +1,4 @@
-![SparkXcloud](https://github.com/Spark-X-Cloud/SparkXcloud-Gdrive-MirrorBot/raw/master/assets/banner.png)
+![SparkXcloud](https://te.legra.ph/file/2dc0f04c0f42f91e0a522.jpg)
 
 # SparkXcloud-Gdrive-MirrorBot/LeechBot v2.0
 [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://ko-fi.com/harshhaareddy)
