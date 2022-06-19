@@ -194,13 +194,13 @@ input[type="submit"]:hover, input[type="submit"]:focus{
           src="https://telegra.ph/file/cc06d0c613491080cc174.png"
           alt="logo"
         />
-        <a href="https://t.me/SparkXcloud">
+        <a href="https://t.me/HYBRID_Bots">
           <h2 class="name">Qbittorrent Selection</h2>
         </a>
       </div>
       <div class="social">
         <a href="https://www.github.com/Spark-X-Cloud/SparkXcloud-Gdrive-MirrorBot"><i class="fab fa-github"></i></a>
-        <a href="https://t.me/SparkXcloud"><i class="fab fa-telegram"></i></a>
+        <a href="https://t.me/HYBRID_Bots"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <div id="sticks">
@@ -555,13 +555,13 @@ section span{
           src="https://telegra.ph/file/cc06d0c613491080cc174.png"
           alt="logo"
         />
-        <a href="https://t.me/SparkXcloud">
+        <a href="https://t.me/HYBRID_Bots">
           <h2 class="name">Qbittorrent Selection</h2>
         </a>
       </div>
       <div class="social">
         <a href="https://www.github.com/Spark-X-Cloud/SparkXcloud-Gdrive-MirrorBot"><i class="fab fa-github"></i></a>
-        <a href="https://t.me/SparkXcloud"><i class="fab fa-telegram"></i></a>
+        <a href="https://t.me/HYBRID_Bots"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <section>
